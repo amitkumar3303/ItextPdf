@@ -1,0 +1,13 @@
+<html>
+    <body>
+        <h2>Xml 2 Pdf in Java Using iText</h2>
+        <table border="1">
+            <tr bgcolor="skyblue">
+                <th align="left">Friend's Name</th><th align="left">Friend's Place</th>
+            </tr>
+            <tr>
+                <td>Hemakumar</td><td>Arcot</td>
+            </tr>
+        </table>
+    </body>
+</html>

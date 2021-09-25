@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<XMLtoPDF>
+ <Friend>
+  <FriendName>Hemakumar</FriendName>
+  <FriendPlace>Arcot</FriendPlace>
+ </Friend>
+ <Friend>
+  <FriendName>Chudar</FriendName>
+  <FriendPlace>Vellore</FriendPlace>
+ </Friend>
+ <Friend>
+  <FriendName>Selva kumar</FriendName>
+  <FriendPlace>Arcot</FriendPlace>
+ </Friend>
+</XMLtoPDF>
